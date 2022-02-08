@@ -1,0 +1,22 @@
+{
+  "name": "validate-form-fields",
+  "version": "1.0.0",
+  "description": "Validator for the validation of different form field",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satishgupta07/validate-form-fields.git"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "author": "Satish Kumar Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satishgupta07/validate-form-fields/issues"
+  },
+  "homepage": "https://github.com/satishgupta07/validate-form-fields#readme"
+}
