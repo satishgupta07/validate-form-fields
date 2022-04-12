@@ -1,11 +1,11 @@
-import validEmail from './src/validEmail';
-import validName from './src/validName';
-import passwordStrengthChecker from './src/passwordStrengthChecker';
+const validEmail = require("./src/validEmail");
+const validDate = require("./src/validDate");
+const validName = require("./src/validName");
+const passwordStrengthChecker = require("./src/passwordStrengthChecker");
 
-const validate = {
+module.exports = {
     validEmail,
+    validDate,
     validName,
     passwordStrengthChecker
-};
-
-export default validate;
+}
